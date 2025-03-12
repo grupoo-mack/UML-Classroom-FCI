@@ -34,7 +34,9 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O projeto está relacionado com os desafios do desenvolvimento de drones bélicos da empresa "Securus Dynamics", cujo principal produto se chama de Aquila-x, com necessidade de implementação de sistemas operacionais (tempo real, segurança e
+concorrência) e de banco de dados (armazenamento distribuído,
+replicação e logs de auditoria).&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
