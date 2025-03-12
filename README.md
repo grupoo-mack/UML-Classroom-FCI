@@ -26,9 +26,7 @@ A seguir, os passos para a preparação do projeto:
 # Descrição
 
 *A Securus Dynamics é uma empresa multinacional especializada no desenvolvimento de drones bélicos autônomos para operações militares. Seu principal produto, o Aquila-X, é uma frota de drones equipados com inteligência artificial e sensores avançados, capazes de realizar missões táticas, reconhecimento em território hostil e ataques de precisão.
-
 A empresa está desenvolvendo um novo sistema chamado Falcão Sombrio, que permitirá a operação remota e autônoma dos drones através de uma rede de servidores distribuídos e uma interface operacional avançada. O projeto envolve desafios de sistemas operacionais (tempo real, segurança e concorrência), além de banco de dados (armazenamento distribuído, replicação e logs de auditoria).
-
 A diretoria da Securus Dynamics identificou falhas na atual arquitetura do sistema e contratou a Consultoria Cyber Bullet System (Turma 4G) para reformular toda a arquitetura de software e definir um novo modelo de banco de dados para suportar as operações críticas dos drones.*
 
 # Documentação
