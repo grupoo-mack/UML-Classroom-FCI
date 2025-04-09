@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema Falcão Sombrio para Drones&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -30,6 +30,7 @@
 * Amanda Oliveira Pires Conde
 * João Rocha Murgel
 * Lucas Akio Funada Tsukamoto
+* Eric Ken Kawabe
 
 
 # Descrição do Projeto
