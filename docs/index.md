@@ -44,15 +44,54 @@ replicação e logs de auditoria).&gt;*
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+<img width="979" alt="Captura de Tela 2025-04-09 às 17 55 04" src="https://github.com/user-attachments/assets/973252ec-5f3c-4f5d-98f3-08fe24ec2bc9" />
+
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+<img width="907" alt="Captura de Tela 2025-04-09 às 17 32 47" src="https://github.com/user-attachments/assets/16a64bff-aedb-45ed-8893-8f62fa27f87a" />
+
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+O Operador Militar usa o sistema para controlar drones remotamente, monitorar telemetria e atribuir missões. O sistema gerencia a frota de drones, garantindo segurança nas comunicações e processamento de dados.
+
+Ator Primário:
+	•	Operador Militar
+
+Atores Secundários:
+	•	Sistema de Comunicação
+	•	Banco de Dados
+	•	Administrador
+	•	Sistema Operacional
+	•	IA do Drone
+
+Pré-condições:
+	•	O operador deve estar autenticado no sistema.
+	•	A conexão segura com os drones deve estar estabelecida.
+
+Fluxo Principal:
+	1.	O operador solicita o controle de um drone remoto.
+	2.	O sistema estabelece uma conexão segura e apresenta informações de telemetria em tempo real.
+	3.	O operador gerencia a frota de drones, podendo atribuir missões específicas.
+	4.	O banco de dados armazena missões e eventos, replicando os dados em tempo real.
+	5.	O sistema operacional monitora os processos e prioriza tarefas críticas.
+	6.	A IA do drone realiza sensoriamento do ambiente e navegação autônoma, caso necessário.
+	7.	O operador confirma as ações executadas e finaliza o processo.
+
+Fluxo Alternativo (4): Drone em Espera
+
+a. Se não houver drones disponíveis para uma missão, o sistema informa o operador e sugere colocá-lo em uma lista de espera.
+b. Se o operador aceitar, o sistema o notifica quando um drone estiver disponível e retoma a missão.
+c. Se o operador não aceitar, ele pode modificar a missão ou encerrar o processo.
+
+Fluxo de Exceção (4): Falha na Conexão Segura
+	•	Se a conexão segura falhar, o sistema ativa um mecanismo de fallback para restabelecer a comunicação.
+	•	Se a reconexão falhar, o sistema notifica o operador e desativa o controle remoto do drone.
+
+Pós-condições:
+	•	O drone executou a missão com sucesso ou foi colocado em modo de espera.
+	•	Os dados da missão foram armazenados no banco de dados.
 
 # Diagrama de Sequência
 
