@@ -40,7 +40,11 @@ concorrência) e de banco de dados (armazenamento distribuído,
 replicação e logs de auditoria).&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+
+<img width="562" alt="Captura de Tela 2025-04-09 às 17 59 42" src="https://github.com/user-attachments/assets/cd000fe7-6353-4b80-ace2-6cbc005eee96" />
+
+<img width="532" alt="Captura de Tela 2025-04-09 às 18 00 18" src="https://github.com/user-attachments/assets/7569ee6b-21b5-4756-bc44-15ef22c18551" />
+
 
 # Diagrama de Atividades
 
