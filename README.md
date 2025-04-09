@@ -31,7 +31,7 @@ A diretoria da Securus Dynamics identificou falhas na atual arquitetura do siste
 
 # Documentação
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
+Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://github.com/grupoo-mack/UML-Classroom-FCI/blob/master/docs/index.md**
 
 
 
