@@ -99,20 +99,23 @@ Pós-condições:
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+<img width="572" alt="Captura de Tela 2025-06-04 às 22 00 41" src="https://github.com/user-attachments/assets/6125a02a-9f2b-44de-bdc7-8771e404e450" />
+
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+<img width="731" alt="Captura de Tela 2025-06-04 às 22 04 50" src="https://github.com/user-attachments/assets/2f25b57e-5efa-4379-9c10-e02b755fc78e" />
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![WhatsApp Image 2025-06-04 at 18 28 01](https://github.com/user-attachments/assets/689e007b-237a-4569-beaf-04b3e8c3c7c9)
+
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+<img width="482" alt="Captura de Tela 2025-06-04 às 22 06 37" src="https://github.com/user-attachments/assets/2003191c-8a8a-4bd2-8318-7d96f9bc643c" />
+
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+Conteúdo e Material disponibilizados em aula.
